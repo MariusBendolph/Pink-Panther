@@ -60,3 +60,21 @@ footer {
   font-size: 0.9rem;
   color: #aaa;
 }
+.why-panthers blockquote {
+  font-style: italic;
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.5rem;
+  line-height: 1.8;
+  color: #ccc;
+}
+
+}
+
+.why-panthers h2 {
+  color: #0f0;
+  margin-bottom: 1rem;
+}
+
+.why-panthers p {
+  margin-bottom: 1rem;
+}
